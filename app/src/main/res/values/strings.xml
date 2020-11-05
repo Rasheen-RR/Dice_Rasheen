@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Dice_Rasheen</string>
+    <string name="current_roll">Current Roll</string>
+    <string name="dash">-</string>
+    <string name="select_a_dice">Select a dice</string>
+    <string name="_4_sided">4 Sided</string>
+    <string name="_8_sided">8 Sided</string>
+    <string name="_12_sided">12 Sided</string>
+    <string name="_30_sided">30 Sided</string>
+    <string name="_6_sided">6 Sided</string>
+    <string name="_10_sided">10 Sided</string>
+    <string name="_20_sided">20 Sided</string>
+    <string name="true_10_sided">True 10 Sided</string>
+    <string name="clear">Clear</string>
+    <string name="roll_two">Roll Two</string>
+    <string name="roll_one">Roll One</string>
+</resources>
